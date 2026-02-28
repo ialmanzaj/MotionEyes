@@ -13,7 +13,7 @@
     {
       "name": "motioneyes",
       "description": "SwiftUI motion observability and debugging workflow using MotionEyes runtime traces.",
-      "repository": "https://github.com/edwardsanchez/MotionEyes",
+      "repository": "https://github.com/ialmanzaj/MotionEyes",
       "version": "1.0.0",
       "author": {
         "name": "Edward Sanchez",
