@@ -1,6 +1,5 @@
 {
   "name": "motioneyes",
-  "displayName": "MotionEyes",
   "version": "1.0.0",
   "description": "Agent-first SwiftUI motion observability for debugging animations and scroll behavior with MotionEyes traces.",
   "author": {
